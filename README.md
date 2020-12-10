@@ -1,5 +1,5 @@
 # beetsplug-funkwahleupdate
-This Beets Plugin imports/refreshes items in Funkwhle that are imported by beets. 
+This Beets Plugin imports/refreshes items in Funkwhle on `beet import`. 
 
 ## Current features:
 * create/update albums/items when `beets import` is executed 

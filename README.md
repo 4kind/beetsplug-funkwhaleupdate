@@ -14,7 +14,7 @@ funkwahleupdate:
 ```
 
 ## Install
-1. `pip install git+https://github.com/4kind/beetsplug-funkwhale@main`
+1. `pip install git+https://github.com/4kind/beetsplug-funkwhaleupdate.git`
 2. enable plugin `funkwhaleupdate` in beets config
 3. import items with `beet import`
 

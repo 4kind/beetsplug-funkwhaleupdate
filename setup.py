@@ -14,7 +14,7 @@ setup(
     package_dir={"": "src"},
 
     packages=[
-        'beetsplug/funkwhaleupdate',
+        'beetsplug',
     ],
 
     classifiers=[

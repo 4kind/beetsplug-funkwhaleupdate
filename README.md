@@ -1,5 +1,5 @@
 # beetsplug-funkwahleupdate
-This Beets Plugin imports/refreshes items in Funkwhle that are imported by deezer. 
+This Beets Plugin imports/refreshes items in Funkwhle that are imported by beets. 
 
 ## Current features:
 * create/update albums/items when `beets import` is executed 

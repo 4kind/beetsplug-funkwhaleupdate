@@ -16,7 +16,7 @@ funkwahleupdate:
 ## Install
 1. `pip install git+https://github.com/4kind/beetsplug-funkwhaleupdate.git`
 2. enable plugin `funkwhaleupdate` in beets config
-3. add beets configuration
+3. add beets <a name="configuration">configuration</a>
     * to create Application Token see https://docs.funkwhale.audio/swagger/ (scopes `read:libraries` and `write:libraries` are required)
 3. import items with `beet import`
 

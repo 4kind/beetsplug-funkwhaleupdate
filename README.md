@@ -9,7 +9,7 @@ This Beets Plugin imports/refreshes items in Funkwhle on `beet import`.
 funkwahleupdate:
     host: localhost
     port: 5000
-    token <app-token>
+    token: <app-token>
     library_name: <library-name>
 ```
 
